@@ -1,1 +1,1 @@
-Latest InyokaEdit version: 0.12.0 
+Latest InyokaEdit version: 0.15.1 
