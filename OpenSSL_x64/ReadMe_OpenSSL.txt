@@ -1,10 +1,10 @@
 =============================================================================
-OpenSSL v1.0.2l                                Precompiled Binaries for Win64
+OpenSSL v1.0.2q                                Precompiled Binaries for Win64
 -----------------------------------------------------------------------------
 
                          *** Release Information ***
 
-Release Date:     May 29, 2017
+Release Date:     Nov 22, 2018
 
 Author:           Frederik A. Winkelsdorf (opendec.wordpress.com)
                   for the Indy Project (www.indyproject.org)
