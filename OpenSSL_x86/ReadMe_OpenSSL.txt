@@ -1,5 +1,5 @@
 -----------------------------------------------------------------------
-OpenSSL v1.1.1f Win64 for ICS, http://www.overbyte.be
+OpenSSL v1.1.1f Win32 for ICS, http://www.overbyte.be
 -----------------------------------------------------------------------
 
 Only supports Windows Vista/Server 2008, and later, not Windows XP.
@@ -18,7 +18,7 @@ Built with:
                   Strawberry Perl v5.20.3.1
 
 Build Commands:
-                  perl configure VC-WIN64A-rtt
+                  perl configure VC-WIN32-rtt
                   nmake
 
 Custom configuration file (.conf file at the "Configurations" folder):
